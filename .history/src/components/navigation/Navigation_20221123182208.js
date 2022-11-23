@@ -1,6 +1,6 @@
 import React from "react";
 import { useState, useEffect, useCallback } from "react";
-import { client } from "../../client/client";
+import { client } from "../../Client/client";
 import NavigationBar from "./NavigationBar";
 
 const Navigation = () => {
